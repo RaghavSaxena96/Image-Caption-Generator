@@ -24,4 +24,5 @@ Caption- https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr
 
 
 
-![Example] (https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/11/image-caption-generator-girls-playing.png)
+
+![Example](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/11/image-caption-generator-girls-playing.png)
