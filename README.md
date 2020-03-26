@@ -1,6 +1,6 @@
 # Image-Caption-Generator (Raghav Saxena)
 
-By Using Transfer learning to extract features from the images Using Xception model from Keras which is trained on Imagenet dataset
+By Using Transfer learning to extract features from the images Using Xception model from Keras which is trained on Imagenet dataset and then feeding those features to a LSTM model for traning the model to predict captions for that image.
 
 # Under Progress
 
