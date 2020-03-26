@@ -6,7 +6,7 @@ Under Progress
 
 Source Code- https://drive.google.com/file/d/13oJ_9jeylTmW7ivmuNmadwraWceHoQbK
 
-Flicker8K DataSet - 
+Flickr8K DataSet - 
 
 Images- https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr8k_Dataset.zip
 
