@@ -16,3 +16,7 @@ Caption- https://github.com/jbrownlee/Datasets/releases/download/Flickr8k/Flickr
 
 
 ![Model Description](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/11/Model-of-Image-Caption-Generator-python-project.png)
+
+
+
+![Model Summary](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/11/model-python-machine-learning-project.png)
